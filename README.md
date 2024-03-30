@@ -1,4 +1,4 @@
-Employee Payroll Tracker
+#Employee Payroll Tracker
 This project is a JavaScript application designed to track and manage employee data. It allows users to input employee details such as first name, last name, and salary. Users can add multiple employees, calculate the average salary of all employees, and randomly select an employee from the list. The project utilizes HTML, CSS, and JavaScript.
 
 https://clblue60.github.io/Employee-Wage-Tracker/
